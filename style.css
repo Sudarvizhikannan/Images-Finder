@@ -121,6 +121,7 @@ form button{
         border-top-right-radius: 8px;
         border-bottom-right-radius: 8px;
         cursor: pointer;
+        border: 2px solid rgb(39, 8, 68) ;
     }
     ::placeholder{
         color: #fff;
